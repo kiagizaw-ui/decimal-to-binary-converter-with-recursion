@@ -2,19 +2,6 @@
 
 A simple and interactive **Decimal to Binary Converter** built with **HTML, CSS, and JavaScript**. This project converts a decimal number into its binary equivalent using **recursion**, helping demonstrate how recursive functions solve problems by repeatedly calling themselves until reaching a base case.
 
-## 🚀 Live Demo
-
-Add your deployed link here:
-
-```
-https://your-vercel-link.vercel.app
-```
-
-## 📸 Screenshot
-
-Add a screenshot of your project here.
-
----
 
 ## ✨ Features
 
@@ -85,7 +72,7 @@ Each recursive call reduces the problem into a smaller one until it reaches the 
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/decimal-to-binary-converter.git
+git clone https://github.com/kiagizaw-ui/decimal-to-binary-converter.git
 ```
 
 2. Navigate into the project folder.
@@ -122,9 +109,6 @@ Through this project, I learned:
 
 **Kiya Gizaw**
 
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
+- GitHub: https://github.com/kiagizaw-ui 
 
-## 📄 License
 
-This project is open source and available under the **MIT License**.
